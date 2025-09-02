@@ -1,17 +1,17 @@
 {
   "name": "spotify",
   "version": "1.0.0",
-  "description": "This is a Spotify clone for my site.",
+  "description": "this is a clone of my app",
   "keywords": [
-    "Spotify",
+    "spotify",
     "music"
   ],
   "license": "ISC",
-  "author": "Divya",
-  "type": "module",
-  "main": "script.js",
+  "author": "divv",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^5.1.0",
