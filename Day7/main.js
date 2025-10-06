@@ -1,3 +1,5 @@
+// sab files ko unke folder ke acc. save karna hai
+
 import fs from "fs/promises";
 import fsn from "fs";
 import path from "path";
